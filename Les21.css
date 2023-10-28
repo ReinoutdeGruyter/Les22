@@ -1,0 +1,23 @@
+#Kendrick{ border-style: inset; 
+    border-color: black;
+}
+#Biggie{
+border-style: inset;
+border-color: gold;
+}
+.col-4{
+    padding: 10px;
+}
+img{width: 100%;
+    height: 100%;
+}
+#SCP{height: 30px;
+width: 30px;
+}
+.nav-item{ 
+    border-style: solid; 
+    border-color: black;
+    margin: 5px;
+    text-align: center;
+}
+
